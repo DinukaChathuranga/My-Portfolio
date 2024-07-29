@@ -1,0 +1,58 @@
+[
+  {
+    "title": "Fast-Feast",
+    "State":"|Ongoing",
+    "imageSrc": "projects/fast.png",
+    "description": "FastFeast is an online food ordering website created usingASP.NET Web Forms and MS SQL Server database. Thefrontend was developed using HTML, CSS, and JavaScript.",
+    "skills": [".Net Web Froms", "MsSQL"],
+    "demo": "",
+    "source": "https://github.com/DinukaChathuranga/FastFeast.git"
+  },
+  {
+    "title": "Student Management System",
+    "State":"|Completed",
+    "imageSrc": "projects/project.png",
+    "description": "This project is a web-based student management system developed using the ASP.NET MVC framework. It provides a streamlined solution for managing student information and academic records",
+    "skills": [".Net MVC", "MsSQL"],
+    "demo": "",
+    "source": "https://github.com/DinukaChathuranga/Student-Management-System.git"
+  },
+  {
+    "title": "Library Management System",
+    "State":"|Completed",
+    "imageSrc": "projects/library.png",
+    "description": "This is an enterprise resource planning system for a library,used to track items owned, orders made, bills paid, andpatrons who have borrowed.",
+    "skills": ["Java","Marven", "Derby"],
+    "demo": "",
+    "source": "https://github.com/DinukaChathuranga/Student-Management-System.git"
+  },
+  {
+    "title": "SmartX",
+    "State":"|Completed",
+    "imageSrc": "projects/smart.jpg",
+    "description": "This is an IOT based Smart Building control system that enables controlling home appliances remotely through a web application",
+    "skills": ["React", "Firebase", "IOT","Arduino"],
+    "demo": "",
+    "source": "https://github.com/KavindhyaNirmani/smart-building"
+  },
+  {
+    "title": "Beauty-Bliss",
+    "State":"|Completed",
+    "imageSrc": "projects/beauty.png",
+    "description": "Beauty-Bliss is an e-commerce cosmetics website",
+    "skills": ["PHP", "Html","Css","Php"],
+    "demo": "",
+    "source": "https://github.com/DinukaChathuranga/Beauty-Bliss"
+  }
+  ,
+  {
+    "title": "Train Reservation System",
+    "State":"|Completed",
+    "imageSrc": "projects/project.png",
+    "description": "This is a Windows Forms desktop application designed tp check train sheduls and make train reservations",
+    "skills": [".Net Win Forms", "MsSql"],
+    "demo": "",
+    "source": "https://github.com/DinukaChathuranga/Sltrain_Application"
+  }
+
+]

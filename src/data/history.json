@@ -1,0 +1,37 @@
+[
+  {
+    "certificate": "Certificate in Software Engineering",
+    "organisation": "NIBM",
+    "issuedDate": "May, 2022",
+    "skills": ["C#","OOP","DBMS",".Net"],
+    "cred":"https://drive.google.com/file/d/1Bwzr29J4LEcTTUFoz6iH-T0wMFalJTOX/view?usp=sharing",
+    "imageSrc": "history/NIBM.png"
+  },
+  {
+    "certificate": "Python for Beginners",
+    "organisation": "University of Moratuwa",
+    "issuedDate": "Jun, 2024",
+    "skills": ["Python"],
+    "cred":"https://drive.google.com/file/d/1ZHeal6tqRWiqTiYQl2UejGk1vGrKKmC9/view?usp=sharing",
+    "imageSrc": "history/mora.png"
+  },
+  {
+    "certificate": "Programming Essentials in Python",
+    "organisation": "Cisco",
+    "issuedDate": "Mar, 2022",
+    "skills": ["Python"],
+    "cred":"https://drive.google.com/file/d/1s_lbyaXkpBsNmWSlcao1jggWanBfRJRW/view",
+    "imageSrc": "history/cisco.png"
+  },
+  {
+    "certificate": "Learn JavaScript",
+    "organisation": "Udemy",
+    "issuedDate": "Mar, 2023",
+    "skills": ["JavaScript"],
+    "cred":"https://www.udemy.com/certificate/UC-97ba137d-b810-45df-9226-9aaf622a8785/",
+    "imageSrc": "history/udemy.png"
+  }
+
+  
+  
+]
